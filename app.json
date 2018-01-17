@@ -1,0 +1,7 @@
+{
+  "name": "swapi-graphene",
+  "description": "GraphQL SWAPI using Graphene",
+  "repository": "https://github.com/patemeryfl/swapi-graphene",
+  "website": "https://patemery.com",
+  "keywords": ["http", "rest", "API", "testing", "integration", "python", "flask"]
+}
